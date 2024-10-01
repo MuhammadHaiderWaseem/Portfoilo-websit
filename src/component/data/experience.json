@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "role": "ADP Computer Science",
+      "organisation": "Google",
+      "startDate": "Continue",
+      "endDate": "Present",
+      "location": "University of Punjab",
+      "experiences": [
+        "Work on ",
+        "Worked with the Google Bard Team"
+      ],
+      "imageSrc": "company/google.png"
+    },
+    {
+      "id": 2,
+      "role": " FSC Pre Engeneering",
+      "organisation": "Mirosoft",
+      "startDate": "2020",
+      "endDate": "2022",
+      "location": "Aspire College Pattoki",
+      "experiences": [
+        "Worked on Windows 10 terminal",
+        "Worked on Window 11 Upcoming features"
+      ],
+      "imageSrc": "company/microsoft.png"
+    },
+    {
+      "id": 3,
+      "role": "First Nation School",
+      "organisation": "Netflix",
+      "startDate": "2007",
+      "endDate": "2020",
+      "location": "Bengluru, India",
+      "experiences": [
+        "Worked on Nextflix payment system",
+        "Helped to create UI for video player"
+      ],
+      "imageSrc": "company/netflix.png"
+    }
+  ]
+  
